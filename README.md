@@ -29,8 +29,8 @@ Replace `[string1]` and `[string2]` with the words that you want to check.
 
 3. 次のコマンドを使用してプログラムをコンパイルします。
 `gcc -o anagram Anagram.c`
-4. 二つの英単語をコマンドライン引数として指定してプログラムを実行します。
-`./anagram [string1] [string2]`
+4. 二つの英単語をコマンドライン引数として指定してプログラムを実行します。  
+`./anagram [string1] [string2]`  
 [string1]と[string2] の部分をチェックしたい英単語に置き換えてください。
 
 ### Example
